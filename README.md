@@ -36,6 +36,12 @@
 - [APIN 2024] **On Mask-based Image Set Desensitization with Recognition Support**  
 *Qilong Li, Ji Liu, Yifan Sun, Chongsheng Zhang, Dejing Dou*  [ [Paper](https://arxiv.org/pdf/2312.08975) ]
 
+- [SDM 2024] **AEDFL: Efficient Asynchronous Decentralized Federated Learning with Heterogeneous Devices**  
+*Ji Liu, Tianshi Che, Yang Zhou, Ruoming Jin, Huaiyu Dai, Dejing Dou, Patrick Valduriez*  [ [Paper](https://arxiv.org/pdf/2312.10935) ]
+
+- [ICASSP 2024] **Learning Emotion-Invariant Speaker Representations for Speaker Verification**  
+*Jingguang Tian, Xinhui Hu, Xinkang Xu*  [ [Paper](https://ieeexplore.ieee.org/abstract/document/10445819) ]
+
 - [IEEE-ASRU2023] **LE-SSL-MOS: Self-Supervised Learning MOS Prediction with Listener Enhancement**  
 *Zili Qi, Xinhui Hu, Wangjin Zhou, Sheng Li, Hao Wu, Jian Lu, Xinkang Xu*  [ [Paper](https://arxiv.org/pdf/2311.10656) ]
 
@@ -47,12 +53,6 @@
 
 - [EMNLP 2023] **Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization**  
 *Tianshi Che, Ji Liu, Yang Zhou, Jiaxiang Ren, Jiwen Zhou, Victor S. Sheng, Huaiyu Dai, Dejing Dou*  [ [Paper](https://arxiv.org/pdf/2310.15080) ]
-
-- [SDM 2024] **AEDFL: Efficient Asynchronous Decentralized Federated Learning with Heterogeneous Devices**  
-*Ji Liu, Tianshi Che, Yang Zhou, Ruoming Jin, Huaiyu Dai, Dejing Dou, Patrick Valduriez*  [ [Paper](https://arxiv.org/pdf/2312.10935) ]
-
-- [ICASSP 2024] **Learning Emotion-Invariant Speaker Representations for Speaker Verification**  
-*Jingguang Tian, Xinhui Hu, Xinkang Xu*  [ [Paper](https://ieeexplore.ieee.org/abstract/document/10445819) ]
 
 - [IJCAI 2023] **Integrating Stock Features and Global Information via Large Language Models for Enhanced Stock Return  Prediction**  
 *Yujie Ding, Shuai Jia, Tianyi Ma, Bingcheng Mao, Xiuze Zhou, Liuliu Li, Dongming Han*  [ [Paper](https://arxiv.org/pdf/2310.05627) ]
