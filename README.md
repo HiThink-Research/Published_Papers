@@ -82,7 +82,7 @@
 *Qiang Wang, Xinhui Hu*  [ [Paper](https://aclanthology.org/2023.findings-acl.367.pdf) ]
 
 - [Digestive and Liver Disease 2023] **Assessment of Helicobacter pylori infection by deep learning based on endoscopic videos in real time**  
-*Dongming Wu, Lulu Wen, Chao Chen, Zhaoshu Shi*  [ [Paper](https://arxiv.org/pdf/2306.11260) ]
+*Yandong Li, Huogen Wang, Shengsen Chen, Jiangping Yu, Rongwei Ruan, Chaohui Jin, Jiayan Jin, Shi Wang*  [ [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1590865823002244) ]
 
 **Year 2022**
 
