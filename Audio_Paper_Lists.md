@@ -1,6 +1,10 @@
 # Audio Paper Lists:
 
 ### Year 2024
+
+- [ICASSP 2024] **A Deep Representation Learning-based Speech Enhancement Method Using Complex Convolution Recurrent  Variational Autoencoder**  
+*Yang Xiang, Jingguang Tian, Xinhui Hu, Xinkang Xu, ZhaoHui Yin*  [ [Paper](https://arxiv.org/pdf/2312.09620) ]
+
 - [ICASSP 2024] **The Royalflush Automatic Speech Diarization and Recognition System for In-car Multi-channel Automatic  Speech Recognition Challenge**  
 *Jingguang Tian, Shuaishuai Ye, Shunfei Chen, Yang Xiang, Zhaohui Yin, Xinhui Hu, Xinkang Xu*  [ [Paper](https://arxiv.org/pdf/2405.05498) ]
 
