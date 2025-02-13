@@ -18,3 +18,7 @@
 
 - [Frontiers in Medicine 2022] **A mucosal recovery software  tool for endoscopic submucosal dissection in early gastric cancer**  
 *Yinuo Zhao, Huogen Wang, Yanyan Fan, Chaohui Jin, Qinwei Xu, Jiyong Jing, Tianqiao Zhang, Xuedong Zhang,Wanyuan Chen*  [ [Paper](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.1001383/full) ]
+
+- [Frontiers in Medicine 2022] **Study on Molecular Information  Intelligent Diagnosis and Treatment of Bladder Cancer on Pathological Tissue  Image**  
+*Yanfeng Bai, Huogen Wang, Xuesong Wu, Menghan Weng, Qingmei Han, Liming Xu, Han Zhang, Chengdong Chang, Chaohui Jin, Kunfeng Luo, Xiaodong Teng*  [ [Paper](https://www.frontiersin.org/articles/10.3389/fmed.2022.838182/full) ]
+
