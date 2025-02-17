@@ -15,3 +15,5 @@
 * [Year 2021 Published Papers](https://github.com/HiThink-Research/Published_Papers/blob/main/Year_2021.md)
   
 * [Year 2020 Published Papers](https://github.com/HiThink-Research/Published_Papers/blob/main/Year_2020.md)
+
+* [Complete Published Paper List](https://github.com/HiThink-Research/Published_Papers/blob/main/Complete_Published_Paper_list.md)
